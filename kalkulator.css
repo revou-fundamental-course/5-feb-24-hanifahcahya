@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: yellowgreen;
+    padding: 100px;
+}
+
+h1 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#result {
+    color: white;
+    padding: 15px;
+}
